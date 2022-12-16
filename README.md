@@ -1,5 +1,9 @@
 # Digital Health Workshop
 
+<a target="_blank" href="https://colab.research.google.com/github/afg1/DigitalHealthPG/blob/main/ModelEvaluation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 In this practical, you will be trying to break an AI autosegmentation model.
 
 I have prepared a model which is in this repository, and whose weights can be downloaded into the notebook you will be using.
